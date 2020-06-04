@@ -9,6 +9,8 @@ autopep8 = "*"
 
 [packages]
 requests = "*"
+flask = "*"
+flask-sslify = "*"
 
 [requires]
 python_version = "3.8"

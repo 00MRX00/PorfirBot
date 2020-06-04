@@ -2,4 +2,6 @@ Pipfile.lock
 __pycache__
 .vscode
 misc.py
-updates.json
+hystory.json
+main1.py
+main copy.py
